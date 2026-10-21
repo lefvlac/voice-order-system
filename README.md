@@ -62,6 +62,12 @@ The full diploma thesis is available below:
 
 [Read the full diploma thesis (PDF)](Voice_Order_System.pdf)
 
+## 🎥 Demo Video
+
+Watch the application in action!
+
+[![Watch Demo](https://img.youtube.com/vi/Mlt6opQw3m0/hqdefault.jpg)](https://www.youtube.com/watch?v=Mlt6opQw3m0)
+
 
 ## ⚙️ Installation and Configuration
 
