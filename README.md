@@ -68,8 +68,10 @@ The full diploma thesis is available below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/lefvlac/ai-telephone-ordering-system.git
-   cd ai-telephone-ordering-system
+   
+git clone https://github.com/lefvlac/voice-order-system.git
+cd voice-order-system
+
    ```
 
 2. Create and activate a Python virtual environment.
