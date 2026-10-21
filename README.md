@@ -55,12 +55,13 @@ The prototype was evaluated through functional test cases and a user study.
 - **System Usability Scale (SUS):** Mean score of 84.17/100 across 12 participants.
 - The evaluation provides an initial indication of usability; further testing with a larger sample is needed.
 
-## 📄 Thesis Document
 
-The full diploma thesis is available in the `thesis/` directory.
+## Thesis Document
 
-<!-- Update the path below to match the actual PDF filename in your repository. -->
-[Read the full diploma thesis (PDF)](thesis/diploma-thesis.pdf)
+The full diploma thesis is available below:
+
+[Read the full diploma thesis (PDF)](Voice_Order_System.pdf)
+
 
 ## ⚙️ Installation and Configuration
 
